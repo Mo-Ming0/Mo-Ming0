@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi，欢迎来到政治学社(●'◡'●)
 
 <!--
 **Mo-Ming0/Mo-Ming0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
