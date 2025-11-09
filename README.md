@@ -1,5 +1,5 @@
 ## Hi，欢迎来到政治学社(●'◡'●)
-## 社团官网在这——<https://mo-ming0.github.io/>（ '▿ ' ）
+## 社团官网在这里——<https://mo-ming0.github.io/> ˶╹ꇴ╹˶  
 ## (至于模联的程序，现在在另一个框架上重构，后面会上传的>-<)
 <!--
 **Mo-Ming0/Mo-Ming0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
